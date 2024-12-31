@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # lab2'![image](images/1.jpg)
-=======
-# lab2
- To delete a remote branch 
+### To delete a remote branch:
         git push origin :dev
  to delete a local branch 
          git branch -d test
